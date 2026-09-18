@@ -1,0 +1,4 @@
+# No third-party dependencies are required by this initial scaffold.
+# Add only packages used by committed code as workflows are introduced.
+# Record tested versions for reproducible research; document specialized
+# GIS, MIKE, or CFD environment requirements alongside the relevant workflow.
