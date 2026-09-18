@@ -1,0 +1,2 @@
+# Runtime dependency; install notebook separately for the interactive interface.
+requests
